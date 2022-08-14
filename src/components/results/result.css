@@ -1,0 +1,13 @@
+section {
+    background-color: rgb(42, 103, 103);
+    width: 800px;
+    margin: auto;
+    color:white;
+  
+}
+
+section div {
+   
+    text-align: center;
+    font-size: 50px;
+}
