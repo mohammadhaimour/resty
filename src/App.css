@@ -28,3 +28,26 @@ body header {
   text-align: center;
   justify-content: center;
 }/*# sourceMappingURL=App.css.map */
+
+body .req {
+  background: #1e5e52;
+  width: 200px;
+  height: 20px;
+  margin:auto auto auto auto;
+  margin-top: 20px;
+  color: white;
+  padding: 20px;
+  border-radius: 10%;
+
+}/*# sourceMappingURL=App.css.map */
+body .url {
+  background: #1e5e52;
+  width: 200px;
+  height: 20px;
+  margin:auto auto auto auto;
+  margin-top: 20px;
+  color: white;
+  padding: 20px;
+  border-radius: 10%;
+
+}/*# sourceMappingURL=App.css.map */

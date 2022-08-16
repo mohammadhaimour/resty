@@ -36,8 +36,8 @@ export default function App() {
   return (
     <div>
       <Header />
-      <div>Request Method: {reqMethod}</div>
-      <div>URL: {url} </div>
+      <div className="req">Request Method: {reqMethod}</div>
+      <div className="url">URL: {url} </div>
       <Form handleApiCall={callApi} />
       <Results data={data} method={reqMethod} body={body} />
       <Footer />
