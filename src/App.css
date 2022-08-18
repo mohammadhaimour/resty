@@ -27,7 +27,7 @@ body header {
   margin: 0;
   text-align: center;
   justify-content: center;
-}/*# sourceMappingURL=App.css.map */
+}
 
 body .req {
   background: #1e5e52;
@@ -39,7 +39,7 @@ body .req {
   padding: 20px;
   border-radius: 10%;
 
-}/*# sourceMappingURL=App.css.map */
+}
 body .url {
   background: #1e5e52;
   width: 200px;
@@ -50,4 +50,4 @@ body .url {
   padding: 20px;
   border-radius: 10%;
 
-}/*# sourceMappingURL=App.css.map */
+}  
