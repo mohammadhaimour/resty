@@ -66,61 +66,8 @@ export default Form
 
 
 
-// import React from 'react';
-
-// //import './form.scss';
-
-// class Form extends React.Component {
-
-//     handleSubmit = e => {
-//         e.preventDefault();
-//         const formData = {
-//             method: 'GET',
-//             url: 'https://pokeapi.co/api/v2/pokemon',
-//         };
-//         this.props.handleApiCall(formData);
-//     }
-
-//     render() {
-//         return (
-//             <>
-//                 <form onSubmit={this.handleSubmit}>
-//                     <label >
-//                         <span>URL: </span>
-//                         <input name='url' type='text' />
-//                         <button type="submit">GO!</button>
-//                     </label>
-//                     <label className="methods">
-//                         <span id="get">GET</span>
-//                         <span id="post">POST</span>
-//                         <span id="put">PUT</span>
-//                         <span id="delete">DELETE</span>
-//                     </label>
-//                 </form>
-//             </>
-//         );
-//     }
-// }
-
-// export default Form;
 
 
 
-
-
-
-
-
-{/* <input type="radio" id="GET" name="fav_language" value="GET" onClick={handleClick} />
-<label for="GET">GET</label><br />
-
-<input type="radio" id="POST" name="fav_language" value="POST" onClick={handleClick} />
-<label for="POST">POST</label><br />
-
-<input type="radio" id="PUT" name="fav_language" value="PUT" onClick={handleClick} />
-<label for="PUT">PUT</label>
-
-<input type="radio" id="DELETE" name="fav_language" value="DELETE" />
-<label for="DELETE">DELETE</label> */}
 
 
